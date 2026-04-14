@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Olá, eu sou a Andressa Silva Covo!</h1>
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Olá, eu sou a Andressa Covo!</h1>
   <p><i>Estudante de ADS na Fatec Campinas | Backend Java Developer in training</i></p>
 </div>
 
