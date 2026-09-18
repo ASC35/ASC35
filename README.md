@@ -13,7 +13,7 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" /> Perfil Profissional
-* **Acadêmico:** 4º semestre de ADS na **Fatec Campinas**.
+* **Acadêmico:** 5º semestre de ADS na **Fatec Campinas**.
 * **Foco:** Backend com **Java** e arquitetura de sistemas.
 * **Experiência:** 6 anos em Qualidade na **Samsung Electronics** | 4 anos em vendas e atendimento ao público.
 * **Localização:** Campinas/SP.
