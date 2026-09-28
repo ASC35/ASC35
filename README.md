@@ -1,6 +1,6 @@
 <div align="center">
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Olá, eu sou a Andressa Covo!</h1>
-  <p><i>Estudante de ADS na Fatec Campinas | Backend Java Developer in training</i></p>
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hi, I'm Andressa Covo!</h1>
+  <p><i>I'm a systems analysis and development student at Fatec Campinas | Backend Java Developer in training</i></p>
 </div>
 
 <p align="center">
@@ -12,32 +12,31 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" /> Perfil Profissional
-* **Acadêmico:** 5º semestre de ADS na **Fatec Campinas**.
-* **Foco:** Backend com **Java** e arquitetura de sistemas.
-* **Experiência:** 6 anos em Qualidade na **Samsung Electronics** | 4 anos em vendas e atendimento ao público.
-* **Localização:** Campinas/SP.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" /> Professional Profile
+* **Academic Background:** Currently in the fifth semester of Systems Analysis and Development at **Fatec Campinas**.
+* **Focus:** **Java** back-end development and software architecture. 
+* **Experience:** 6 years in Quality at **Samsung Electronics** | 4 years in Sales and Customer Service.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> Stack Tecnológica
-| Categoria | Tecnologias |
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> Tech Stack 
+| Categories | Technologies |
 | :--- | :--- |
-| **<font color="#8a2be2">Linguagens</font>** | Java, Python, JavaScript |
+| **<font color="#8a2be2">Languages</font>** | Java, Python, JavaScript |
 | **<font color="#8a2be2">Backend</font>** | Spring Boot, Node.js |
-| **<font color="#8a2be2">Banco de Dados</font>** | SQL (MySQL) |
-| **<font color="#8a2be2">Sistemas</font>** | Linux (Lubuntu/Kali), Metodologias Ágeis |
+| **<font color="#8a2be2">Databases</font>** | SQL (MySQL) |
+| **<font color="#8a2be2">Methodologies</font>** | Agile Methodologies |
 
 ---
 
-### 📂 Portfólio
-* 📁 **`fatec-`**: Projetos de graduação.
-* 📁 **`curso-`**: Laboratórios e estudos livres.
-* 📁 **`dev-`**: Projetos autorais e soluções reais.
+### 📂 Portfolio Projects
+* 📁 **`fatec-`**: Undergraduate Projects.
+* 📁 **`curso-`**: Labs and independent studies.
+* 📁 **`dev-`**: Personal projects and practical solutions.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="25" /> Vamos nos conectar?
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="25" /> Let's connect?
 <p align="left">
   <a href="https://linkedin.com/in/andressasc33" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -47,7 +46,8 @@
 <br />
 
 <div align="center">
-  <sub>"Assim como o cervo brama pelas correntes das águas, assim suspira a minha alma por ti, ó Deus!"
+  <sub>"Assim como o cervo brama pelas correntes das águas,<br>
+    assim suspira a minha alma por ti, ó Deus!"<br>
 
 Salmos 42:1</sub>
 </div>
