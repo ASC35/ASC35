@@ -46,8 +46,9 @@
 <br />
 
 <div align="center">
-  <sub>"Assim como o cervo brama pelas correntes das águas, assim suspira a minha alma por ti, ó Deus!"<br>
-
-Salmos 42:1</sub>
+  <sub>
+    <i>"Assim como o cervo brama pelas correntes das águas, assim suspira a minha alma por ti, ó Deus!"</i>
+    <br><br>
+    <strong>Salmos 42:1</strong>
+  </sub>
 </div>
-
